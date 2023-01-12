@@ -1,0 +1,14 @@
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\bin\Debug\MyLibrary.dll
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\bin\Debug\MyLibrary.pdb
+C:\Users\tnrsn\Desktop\Calisma\Form\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
